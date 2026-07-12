@@ -1,0 +1,6 @@
+{
+  "name": "Veggie Match",
+  "description": "Eğlenceli ve heyecanlı sebze eşleştirme puzzle oyunu. Seviyeleri geç, puan ve altın kazan!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
